@@ -36,7 +36,12 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Poppins', sans-serif;
-}
+    background-image:url(../IMAGENS/agro2.jpg);
+   
+    
+    
+    
+}   
 
 header{
     background-image: linear-gradient(to top, var(--cor2), var(--cor1));
@@ -171,4 +176,7 @@ footer{
 footer > a{
     text-decoration: none;
     color: var(--cor1);
+}
+h1{
+    color: green;
 }
