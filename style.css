@@ -36,7 +36,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Poppins', sans-serif;
-    background-image:url(../IMAGENS/agro2.jpg);
+    background-image:url(agro2.jpg);
    
     
     
@@ -113,6 +113,20 @@ p{
     
     
 }
+
+.equipamentosdois{
+    color: var(--cor3);
+    text-align: center;
+    font-size: 30px ;
+
+}
+
+.dois{
+    color: black;
+    text-align: center;
+    font-size:15px ;
+
+}
 pre{
     font-size: 16px;
     font-family: 'Poppins', sans-serif;
@@ -130,7 +144,7 @@ iframe{
 img{
     
     border: 3px solid var(--cor2);
-    width: 300px;
+   /* width: 300px;*/
     
     margin-top: 15px;
    
